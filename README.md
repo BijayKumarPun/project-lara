@@ -10,4 +10,4 @@ If you see that this project has less than 100 commits and the last commit was 3
 
 ## More updates about the development process below:
 
-- Development work has been moved to **dev** branch
+- Development work has been moved to **dev** branch; #a1ab9e4
