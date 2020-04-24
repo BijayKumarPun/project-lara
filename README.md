@@ -1,12 +1,11 @@
-# Welcome to Project Lara
-
+# Welcome to Project Lara 
 
 Project Lara is a playground project that was destined to go into development hell-hole since Day 1.
-Don't be surprised if you do not find anything interesting here, because there isn't any. Might as well stop searching for such.
+If you came here in hope of finding something useful, then prepare to be utterly disappointed.
  
-This is a pure Laravel Project, thus the name, and has been written using Vim editor as the main IDE. When this project was started, the developer had 0 idea about Laravel, and 0.1 idea about Vim. To make it worse, the developer has written less than 10 lines of code in PHP. And the final blow is the selection of Vim as primary IDE.
+This is a pure Laravel Project, thus the name, and has been written using Vim editor as the main and only IDE. This project was started by someone with no prior knowledge of PHP, let alone Laravel. Also, a lot of the early struggles were in navigating through Vim.
 
-If you see that this project has less than 100 commits and the last commit was 30 days ago, then assume the developer could not keep up with the deveopment environment.
+If you see that this project has less than 100 commits and the last commit was more than 30 days ago, then assume the developer could not keep up with the deveopment setup.
 
 ## More updates about the development process below:
 

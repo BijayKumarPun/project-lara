@@ -12,20 +12,14 @@ use Illuminate\Support\Facades\Route;
 | contains the "web" middleware group. Now create something great!
 |
 */
+//Route for home as well as root
+Route::get('/', 'NavigationController@home');
+Route::get('/home','NavigationController@home');
 
-Route::get('/', function () {
-return view('home');
-});
+//Route for blog
+Route::get('/blog','NavigationController@blog');
 
-Route::get('/home',function(){
-	return view('home');
-});
+//Route for about
+Route::get('/about','NavigationController@about');
 
-Route::get('/about',function(){
-	return view('about');
-});
-
-Route::get('/blog',function(){
-	return view('blog');
-});
 
