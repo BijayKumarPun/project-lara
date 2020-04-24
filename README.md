@@ -1,4 +1,4 @@
-#Welcome to Project Lara
+# Welcome to Project Lara
 
 
 Project Lara is a playground project that was destined to go into development hell-hole since Day 1.
@@ -8,6 +8,6 @@ This is a pure Laravel Project, thus the name, and has been written using Vim ed
 
 If you see that this project has less than 100 commits and the last commit was 30 days ago, then assume the developer could not keep up with the deveopment environment.
 
-More updates about the development process below:
+## More updates about the development process below:
 
-- All commits in *master* branch after *979ff1d472ceb571ef2e68c6707cb821d11bac1f* has been moved to *dev* branch. 
+- Development work has been moved to **dev** branch
