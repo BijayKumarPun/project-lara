@@ -22,4 +22,7 @@ Route::get('/blog','NavigationController@blog');
 //Route for about
 Route::get('/about','NavigationController@about');
 
+//Route for login
+Route::post('/login','LoginController@login');
+
 
