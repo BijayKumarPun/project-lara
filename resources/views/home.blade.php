@@ -12,6 +12,7 @@ Please login to continue:
 <input type="text" placeholder="username"/><br>
 <input type="password" placeholder="password"/><br>
 <input type="Submit" value="Login"/>
+@csrf
 </form>
 <style>
 input {
