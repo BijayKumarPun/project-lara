@@ -25,4 +25,6 @@ Route::get('/about','NavigationController@about');
 //Route for login
 Route::post('/login','LoginController@login');
 
+Route::get('/list','LoginController@listAllData');
+
 

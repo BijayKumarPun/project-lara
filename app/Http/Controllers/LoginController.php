@@ -8,6 +8,11 @@ class LoginController extends Controller
 {
      
  
-	public function login(){
+public function login(){
 return "Hello from Login";	}
-}
+
+
+public function listAllData(){
+	$data=Person::all();
+	return $data;
+}}
