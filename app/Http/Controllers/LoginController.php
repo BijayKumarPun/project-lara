@@ -8,7 +8,7 @@ class LoginController extends Controller
 {
      
  
-public function login(){
+public function login(Request $request ){
 return "Hello from Login";	}
 
 
