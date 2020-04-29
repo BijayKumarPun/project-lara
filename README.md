@@ -1,5 +1,9 @@
 # Welcome to Project Lara 
 
+```
+php artisan serve
+```
+
 Project Lara is a playground project that was destined to go into development hell-hole since Day 1.
 If you came here in hope of finding something useful, then prepare to be utterly disappointed.
  
