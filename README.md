@@ -15,3 +15,4 @@ If you see that this project has less than 100 commits and the last commit was m
 
 - Development work has been moved to **dev** branch; #a1ab9e4
 - Many concepts have been driven from Laravel: Up and Running by Matt Stauffer, a really nice book on Laravel for beginners
+- Update : 21st May, This statement was added for commit purpose only; See the 30 days - 100 commit rule above
